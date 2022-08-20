@@ -10,7 +10,7 @@
 |  ----  |  ----  |  ----  |  ----  |  ----  |
 | 1 | algorithm | 算法系列| Algorithms_on_String_Trees_and_Sequences-libre.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/Algorithms_on_String_Trees_and_Sequences-libre.pdf> 下载 </a> |
 | 2 | algorithm | 算法系列| Data_Structures_and_Algorithm_Analysis_in_C.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/Data_Structures_and_Algorithm_Analysis_in_C.pdf> 下载 </a> |
-| 3 | algorithm | 算法系列| Hacker's Delight 2nd Edition.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/Hacker's%20Delight%202nd%20Edition.pdf> 下载 </a> |
+| 3 | algorithm | 算法系列| Hacker's Delight 2nd Edition.pdf |  下载  |
 | 4 | algorithm | 算法系列| The Algorithm Design Manual.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/The%20Algorithm%20Design%20Manual.pdf> 下载 </a> |
 | 5 | algorithm | 算法系列| 啊哈！算法_扫描版_6.68M.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/啊哈！算法_扫描版_6.68M.pdf> 下载 </a> |
 | 6 | algorithm | 算法系列| 大话数据结构.pdf | <a href=https://raw.githubusercontent.com/user2items/eBook/master/algorithm/大话数据结构.pdf> 下载 </a> |
